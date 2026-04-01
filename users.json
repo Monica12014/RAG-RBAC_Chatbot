@@ -1,0 +1,26 @@
+{
+  "walmart_user": {
+      "password": "walmart@123",
+      "role": "walmart"
+  },
+  "tesla_user": {
+      "password": "tesla@123",
+      "role": "tesla"
+  },
+  "amazon_user": {
+      "password": "amazon@123",
+      "role": "amazon"
+  },
+  "google_user": {
+      "password": "google@123",
+      "role": "google"
+  },
+  "microsoft_user": {
+      "password": "microsoft@123",
+      "role": "microsoft"
+  },
+  "admin": {
+      "password": "admin@123",
+      "role": "admin"
+  }
+}
